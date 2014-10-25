@@ -1,4 +1,4 @@
-This is your new Play application
-=================================
+Appathon October 2014
+=========
 
-This file will be packaged with your application, when using `activator dist`.
+Code based on 'Anonymous Chat' in Activator templates for the WebSockets part
